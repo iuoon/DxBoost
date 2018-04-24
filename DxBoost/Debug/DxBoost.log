@@ -1,0 +1,34 @@
+﻿生成启动时间为 2018/4/23 23:34:31。
+     1>项目“F:\Project\DxBoost\DxBoost\DxBoost.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Soft\VS2015\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Windows Kits\8.1\Include\um" /I"C:\Program Files (x86)\Windows Kits\8.1\Include\shared" /I"C:\Program Files (x86)\Windows Kits\8.1\Include\winrt" /IF:\Soft\DirectXSDK11\Include /IF:\Soft\DirectXTex\WICTextureLoader /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Engine\Texure.cpp TexureScene.cpp
+         TexureScene.cpp
+         Texure.cpp
+         正在生成代码...
+       Link:
+         F:\Soft\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Project\DxBoost\Debug\DxBoost.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\Soft\DirectXSDK11\Lib\x86 /LIBPATH:F:\Project\DxBoost\DxBoost d3d11.lib d3dx11.lib Effects11.lib d3dcompiler.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\Project\DxBoost\Debug\DxBoost.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Project\DxBoost\Debug\DxBoost.lib" /MACHINE:X86 Debug\D3DApp.obj
+         Debug\AppDelegate.obj
+         Debug\Camera.obj
+         Debug\D3DBase.obj
+         Debug\d3dUtil.obj
+         Debug\Effects.obj
+         Debug\GameTimer.obj
+         Debug\GeometryGenerator.obj
+         Debug\LightHelper.obj
+         Debug\MathHelper.obj
+         Debug\RenderStates.obj
+         Debug\Scene.obj
+         Debug\Sky.obj
+         Debug\Terrain.obj
+         Debug\Texure.obj
+         Debug\Vertex.obj
+         Debug\WNode.obj
+         Debug\main.obj
+         Debug\TestScene.obj
+         Debug\TexureScene.obj
+         DxBoost.vcxproj -> F:\Project\DxBoost\Debug\DxBoost.exe
+     1>已完成生成项目“F:\Project\DxBoost\DxBoost\DxBoost.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.20
